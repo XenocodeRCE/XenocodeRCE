@@ -1,24 +1,16 @@
-<h2> Hi, I'm Sam! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Philosophy Teacher at <a href="https://www.education.gouv.fr/">Ministry of Education</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>IT / RE addict at night on <a href="https://discord.gg/dhPh2h">my Discord</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+### Hi! 👋
 
-[![Twitter: XenocodeRCE](https://img.shields.io/twitter/follow/XenocodeRCE?style=social)](https://twitter.com/XenocodeRCE)
-[![GitHub XenocodeRCE](https://img.shields.io/github/followers/XenocodeRCE?label=follow&style=social)](https://github.com/XenocodeRCE)
+<img src="https://github.com/XenocodeRCE/XenocodeRCE/blob/main/banner.png" alt="Banner about Simon Roux">
 
+- I'm a passionate developer with more then 10 years of sloppy experience.
+- I have been working in various fields, starting from bot automation, reverse engineering and ending with cryptocurrencies.
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+#### TECH STACK
 
-```csharp
-string[] XenocodeRCE = new string[] { 
-  "Code : HTML CSS C# VB.NET C++", 
-  "Tools : VS, Rider, Docker, Github", 
-  "Architecture : Win10, Pop!_OS", 
-  "Project : NETGuard.IO mainly, numerous temporary ones too", 
-  "Interest : Critical Thinking, Information Theory, Obfuscation"
-};
-```
+PHP / MYSQL / SOLR / HTML / CSS / BOOSTRAP / APACHE / NGINX / C++ / C# / AUTOIT
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+##### MOTTO
 
----
+> When modern physics exerts itself to establish the world's formula, what occurs thereby is this: the being of entities has resolved itself into the method of the totally calculable. - Martin Heidegger
+
+![Profile views](https://gpvc.arturio.dev/XenocodeRCE?v=3)
